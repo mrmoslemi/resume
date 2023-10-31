@@ -1,16 +1,22 @@
-# Reza oslemi
-
+# Reza Moslemi
 ## Senior Software Engineer
 
 Whatsapp: [+98-935-074-6443](http://wa.me/+989350746443)
 
 Email: [rmoslemi1994@gmail.com](mailto:rmoslemi1994@gmail.com)
 
+Age: 29
+
 Live in: Tehran, Iran
+
+**This document contains links to some of my projects. Many of my works in companies are on private repositories, but the public ones are linked from organization profiles in this document**
+
 
 I’m a software engineer with B.Sc. degree in computer science and 10 years of experience in industry and startups. I have a wide domain of knowledge in programming (specially web programming) and team management and eager to earn more.
 
 ## Skills
+
+(duration in years)
 
 Python (7), Java (7), JavaScript (9), Action Script (1), TypeScript (2), GoLang (1), HTML (9), Matlab (1), C (1), C++ (1), NodeJS (1), C# (1), CSS (7), SASS (6), Pascal (1), ReactJS (6), NextJS (1), AngularJS (3), GIN (1), JQuery (2), Django (6), Entity Framework (1), FastAPI (1), Flask (1), WordPress (5), Android (6), ElectronJS (2), ExpressJS (1), ChartJS (2), Bootstrap (6), ASP.NET core (1), SentinelJS (1), PostgreSQL (7), MySQL (3), SQLite (4), Redis (3), RESTFul API (10), Socket Programming (2), Micro Service (4), Monolithic (7), MVVM (4), MVC (7), DDD (1), Design Patterns (4), TDD (2), RabbitMQ (4), Kafka (1), Celery (4), JWT (6), OAuth2 (7), Kubernetes (1), Docker (7), GIT (9), CI/CD (9), GoMigrate (1), Protobuf (1), SQLAlchemy (1), Git Flow (1), Gunicorn (1), uWSGI (5), Nginx (8), Gradle (4), Apache Ant (2), Maven (1), Trello (5), ScrumDesk (2), Google Analytics (8), Agile (9), Scrum (7), Azure (1), Slack (1), Search Console (3), Material UI (2), Google Material (4), UI/UX (8), Teaching (1), Negotiation (1), Leadership (1),
 
