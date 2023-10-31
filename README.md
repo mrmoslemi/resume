@@ -198,3 +198,25 @@ Python (7), Java (8), JavaScript (10), Action Script (1), TypeScript (2), GoLang
 - Landing Project: https://gitlab.com/mrmoslemi/arizeh_frontend
 
 - Skills & Technologies: Java, JavaScript, HTML, Android, Bootstrap, SQLite, RESTFul API, Socket Programming, JWT, GIT, CI/CD, Nginx, Gradle, Trello, Google Analytics, Agile, Google Material, UI/UX
+
+## Educations
+
+### Sharif University
+
+- Bachelor Degree in Computer Science
+
+- Sep 2012 - Sep 2017 (5 years)
+
+- Teacher Assistant in Advanced Programming, Data Structure & Algorithm Design courses
+
+- 1st Place in 7th Sharif AI-Challenge contests
+
+- Graduated with +3 GPA (Above average)
+
+- A+ Score in Algorithm Design, Advanced Programming, Database Design, Data Structures, Web Development courses
+
+- Android Project: https://gitlab.com/mrmoslemi/tvmaze
+
+- Web Project: https://gitlab.com/mrmoslemi/shahin_homepage
+
+- Skills & Technologies: Java, JavaScript, HTML, Matlab, C, C++, CSS, Django, Android, Bootstrap, PostgreSQL, MVC, TDD, Apache Ant, Maven, Teaching, Data Structures, Algorithm Design
