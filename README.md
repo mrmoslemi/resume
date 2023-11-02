@@ -14,7 +14,7 @@ Age: 29 years
 
 Live in: Tehran, Iran
 
-I’m a software engineer with B.Sc. degree in computer science and 10 years of experience in industry and startups. I have a wide domain of knowledge in programming (specially web programming) and team management and eager to earn more.
+I am a senior software engineer with 10 years of experience and a diverse skill set spanning Software Architecture, Project Management, Back-end & Front-end Development, Database Management, and DevOps Management. I am currently seeking opportunities with forward-thinking companies engaged in innovative AI-based projects, where I can contribute as a solution-oriented engineer to their teams.
 
 **This document contains links to some of my projects. Many of my works in companies are on private repositories, but the public ones are linked from organization profiles in this document**
 ## Skills
